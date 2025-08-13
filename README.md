@@ -1,7 +1,7 @@
 SMART PURCHASE SYSTEM
 
 Allows users to easily purchase Aritime, buy Data, burrow Data and Airtime.
-AN initialize balance of 1,000 is set to be use by the user.
+An initialize balance of 1,000 is set to be use by the user.
 The system prompts a user to either type *555# to continue or type 'stop' to terminate the program.
 Any input aside these two commands inputed by the user is rendered an invalid command.
 
